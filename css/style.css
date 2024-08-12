@@ -80,6 +80,40 @@ body {
   text-transform: uppercase;
   color: #FFF;
   border-radius: 30px;
-  background-color:  #490E84;
+  background-color: #490E84;
   padding: 22px 117px 19px;
+}
+
+.new {
+  padding: 90px 0 150px;
+}
+
+.new-title {
+  margin: 0 0 50px;
+  text-transform: uppercase;
+  text-align: center;
+  color: #717171;
+  font-size: 32px;
+  line-height: 39px;
+  font-weight: 700;
+}
+
+.new-info {
+  display: flex;
+  align-items: center;
+}
+
+.new-text p {
+  margin: 0 0 30px;
+}
+
+.new-text b {
+  display: block;
+  max-width: 560px;
+  font-size: 20px;
+  line-height: 26px;
+}
+
+.images-new {
+  margin-left: 190px;
 }
